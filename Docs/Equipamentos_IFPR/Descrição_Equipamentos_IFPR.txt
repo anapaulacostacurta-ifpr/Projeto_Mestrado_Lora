@@ -2,4 +2,4 @@ Atualmente, a infraestrutura disponível para experimentação e atividades educ
 - Gateway ativo conectado a um servidor na nuvem via The Things Network (TTN), possibilitando a integração com aplicações e serviços em nuvem.
 - Ausência de sensores em funcionamento no momento, ou seja, não há dispositivos finalizando a cadeia de coleta e transmissão de dados.
 - Três módulos RAK3172 disponíveis para futuras implementações e testes de conectividade.
-- Diversos IoT Dev Kits LoRaWAN destinados principalmente a atividades didáticas, permitindo a exploração prática dos conceitos de conectividade de longa distância, baixo consumo energético e integração de sensores em cenários reais de ensino-aprendizagem.
+- Diversos IoT Dev Kits LoRaWAN destinados principalmente a atividades didáticas, permitindo a exploração prática dos conceitos de conectividade de longa distância.
