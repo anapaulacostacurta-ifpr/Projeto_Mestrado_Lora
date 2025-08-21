@@ -1,1 +1,1 @@
-* [📝 Execução Simulador]([https://github.com/anapaulacostacurta-ifpr/Projeto_Mestrado_Lora/wiki/Reuniao_11_07_2025](https://colab.research.google.com/drive/1fCx1qGu8vZ7IjBUT8Q18XNCX6QimC0cX?usp=sharing))
+[📝 Execução Simulador]([https://github.com/anapaulacostacurta-ifpr/Projeto_Mestrado_Lora/wiki/Reuniao_11_07_2025](https://colab.research.google.com/drive/1fCx1qGu8vZ7IjBUT8Q18XNCX6QimC0cX?usp=sharing)
